@@ -25,13 +25,13 @@ Tabela 2
 - Colunas: codigo_produto, nome_produto, descricao_produto, codigo_tipo_produto, tipo_produto, codigo_diretor_responsavel, nome_diretor_responsavel, email_diretor_responsavel
 
 ## 1) Ainda sem fazer normalizações, apresente o modelo conceitual deste esboço oferecido pelo gestor, destacando atributos chaves e multivalorados, caso existam, e apresentando também a cardinalidade dos relacionamentos.
-![alt text](<base_nao_normalizada.jpg>)
+![alt text](<base_nao_normalizada.jpeg>)
 
 - As duas tabelas sugeridas pelo cliente não possuem uma chave unica de relação entre elas, podendo assim causar problemas de relacionamento de base.
 
 - Modelo conceitual da base normalizada:
 
-![alt text](base_normalizada.jpg)
+![alt text](base_normalizada.jpeg)
 
 ## 2) Agora apresente um modelo lógico que expresse as mesmas informações e relacionamentos descritos no modelo original, mas decompondo-os quando necessário para que sejam respeitadas as 3 primeiras formas normais. Destaque atributos chaves e multivalorados, caso existam, e apresente também a cardinalidade dos relacionamentos.
 
